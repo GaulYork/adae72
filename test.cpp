@@ -2,6 +2,6 @@
 
 int main( void )
 {
-  printf("This is just a test!\n");
+  printf("This is just a test.\n");
   return 0;
 }
