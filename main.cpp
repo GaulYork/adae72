@@ -3,6 +3,6 @@
 int main( void )
 {
 	printf("This is a test of Git.\n" );
-	printf("²âÊÔÒ»ÏÂ\n");
+	printf("æµ‹è¯•ä¸€ä¸‹\n");
 	return 0;
 }
